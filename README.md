@@ -1,6 +1,6 @@
 Example:
 
-<code>
+<pre><code>
     case "main":
 			try {
 				var data = fs.readFileSync('command/menu.txt', 'utf8');
@@ -16,4 +16,4 @@ Example:
 				  }
 				}
         break;
-</code>
+</code></pre>
