@@ -1,0 +1,32 @@
+───┤ *CLASS JAVASCRIPT* ├───
+
+ECMAScript 2015, juga dikenal sebagai ES6, memperkenalkan Kelas JavaScript.
+
+Kelas JavaScript adalah templat untuk Objek JavaScript.
+
+Sintaks Kelas JavaScript
+
+Gunakan kata kunci classuntuk membuat kelas.
+
+Selalu tambahkan metode bernama constructor():
+
+Sintaksis
+class ClassName {
+  constructor() { ... }
+}
+
+Contoh
+class Car {
+  constructor(name, year) {
+    this.name = name;
+    this.year = year;
+  }
+}
+
+Contoh di atas menciptakan sebuah kelas bernama "Mobil".
+
+Kelas memiliki dua properti awal: "nama" dan "tahun".
+
+Kelas JavaScript bukanlah sebuah objek.
+
+Ini adalah templat untuk objek JavaScript.

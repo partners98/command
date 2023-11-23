@@ -1,0 +1,32 @@
+───┤ *EVENT JAVASCRIPT* ├───
+
+Peristiwa HTML adalah "hal" yang terjadi pada elemen HTML.
+
+Ketika JavaScript digunakan di halaman HTML, JavaScript dapat "bereaksi" terhadap kejadian ini.
+\Acara HTML
+
+Peristiwa HTML dapat berupa sesuatu yang dilakukan browser, atau sesuatu yang dilakukan pengguna.
+
+Berikut adalah beberapa contoh acara HTML:
+
+1. Halaman web HTML telah selesai dimuat
+2. Bidang masukan HTML telah diubah
+3. Tombol HTML diklik
+
+Seringkali, ketika suatu peristiwa terjadi, Anda mungkin ingin melakukan sesuatu.
+
+JavaScript memungkinkan Anda mengeksekusi kode ketika peristiwa terdeteksi.
+
+HTML memungkinkan atribut event handler, dengan kode JavaScript , untuk ditambahkan ke elemen HTML.
+
+Dengan tanda kutip tunggal:
+
+<element event='some JavaScript'>
+
+Dengan tanda kutip ganda:
+
+<element event="some JavaScript">
+
+Dalam contoh berikut, sebuah onclickatribut (dengan kode), ditambahkan ke sebuah <button>elemen:
+
+<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>

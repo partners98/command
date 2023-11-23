@@ -1,0 +1,15 @@
+────┤ *ATTR SELECTOR CSS* ├────
+
+Gaya Elemen HTML Dengan Atribut Tertentu
+
+Dimungkinkan untuk menata elemen HTML yang memiliki atribut atau nilai atribut tertentu.
+
+Pemilih [atribut] CSS
+
+Selector [attribute] digunakan untuk memilih elemen dengan atribut tertentu.
+
+Contoh berikut memilih semua elemen <a> dengan atribut target:
+
+a[target] {
+  background-color: yellow;
+}

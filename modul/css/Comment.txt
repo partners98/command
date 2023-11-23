@@ -1,0 +1,16 @@
+────┤ *COMMENT CSS* ├────
+
+Komentar CSS tidak ditampilkan di browser, namun dapat membantu mendokumentasikan kode sumber Anda.
+
+Komentar CSS
+
+Komentar digunakan untuk menjelaskan kode, dan mungkin membantu ketika Anda mengedit kode sumber di kemudian hari.
+
+Komentar diabaikan oleh browser.
+
+Komentar CSS ditempatkan di dalam <style>elemen, dimulai /*dan diakhiri dengan */:
+
+/* This is a single-line comment */
+p {
+  color: red;
+} 

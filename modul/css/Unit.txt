@@ -1,0 +1,24 @@
+────┤ *UNIT CSS* ├────
+
+CSS memiliki beberapa unit berbeda untuk menyatakan panjang.
+
+Banyak properti CSS mengambil nilai "panjang", seperti width, margin, padding, font-size, dll.
+
+Panjang adalah suatu bilangan yang diikuti dengan satuan panjang, misalnya 10px, 2em, dan seterusnya.
+
+Tetapkan nilai panjang yang berbeda, menggunakan px (piksel):
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 25px;
+  line-height: 50px;
+} 
+
+Catatan: Spasi putih tidak boleh muncul di antara angka dan satuan. Namun, jika nilainya 0, satuannya dapat dihilangkan.
+
+Untuk beberapa properti CSS, panjang negatif diperbolehkan.
+
+Ada dua jenis satuan panjang: absolut dan relatif .

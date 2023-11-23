@@ -1,0 +1,26 @@
+───┤ *OUTPUT JAVASCRIPT* ├───
+
+JavaScript dapat "menampilkan" data dengan berbagai cara:
+
+1. Menulis ke dalam elemen HTML, menggunakan innerHTML.
+2. Menulis ke dalam output HTML menggunakan document.write().
+3. Menulis ke dalam kotak peringatan, menggunakan window.alert().
+4. Menulis ke konsol browser, menggunakan console.log().
+
+Menggunakan innerHTML
+
+Untuk mengakses suatu elemen HTML, JavaScript dapat menggunakan document.getElementById(id) metode tersebut.
+
+Atribut idmendefinisikan elemen HTML. Properti innerHTMLmendefinisikan konten HTML:
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Web Page</h1>
+<p>My First Paragraph</p>
+<p id="demo"></p>
+<script>
+document.getElementById("demo").innerHTML = 5 + 6;
+</script>
+</body>
+</html> 

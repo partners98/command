@@ -1,0 +1,29 @@
+┌─────┤ *MODUL HTML* ├─────
+│
+├▻ *.h-intr* _(Introduction)_
+├▻ *.h-basic* _(Basic)_
+├▻ *.h-ele* _(Element)_
+├▻ *.h-att* _(Attribute)_
+├▻ *.h-hea* _(Heading)_
+├▻ *.h-para* _(Paragraph)_
+├▻ *.h-format* _(Formatting)_
+├▻ *.h-quot* _(Quotation)_
+├▻ *.h-comm* _(Comment)_
+├▻ *.h-clr* _(Color)_
+├▻ *.h-link* _(Link)_
+├▻ *.h-img* _(Image)_
+├▻ *.h-fav* _(Favicon)_
+├▻ *.h-pt* _(Page Title)_
+├▻ *.h-tabl* _(Table)_
+├▻ *.h-list* _(List)_
+├▻ *.h-div* _(Div)_
+├▻ *.h-clas* _(Class)_
+├▻ *.h-id* _(Id)_
+├▻ *.h-ifr* _(Iframe)_
+├▻ *.h-head* _(Head)_
+├▻ *.h-lay* _(Layout)_
+├▻ *.h-res* _(Responsive)_
+├▻ *.h-sem* _(Semantics)_
+├▻ *.h-emoj* _(Emoji)_
+├▻ *.h-char* _(Charset)_
+└─────────────────

@@ -1,0 +1,18 @@
+────┤ *OPACITY CSS* ├────
+
+Gambar Transparan
+
+Properti opacitydapat mengambil nilai dari 0,0 - 1,0. Semakin rendah nilainya, semakin transparan:
+
+img {
+  opacity: 0.5;
+}
+img:hover {
+  opacity: 1.0;
+}
+
+Contoh dijelaskan
+
+Blok CSS pertama mirip dengan kode pada Contoh 1. Selain itu, kami telah menambahkan apa yang seharusnya terjadi ketika pengguna mengarahkan kursor ke salah satu gambar. Dalam hal ini kami ingin gambarnya TIDAK transparan ketika pengguna mengarahkan kursor ke atasnya. CSS untuk ini adalah opacity:1;.
+
+Saat penunjuk mouse menjauh dari gambar, gambar akan menjadi transparan kembali.

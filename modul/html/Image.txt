@@ -1,0 +1,32 @@
+────┤ *GAMBAR HTML* ├────
+
+Gambar dapat meningkatkan desain dan tampilan halaman web.
+
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+
+Sintaks Gambar HTML
+
+Tag HTML <img> digunakan untuk menyematkan gambar di halaman web.
+
+Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
+
+Tag <img>kosong, hanya berisi atribut, dan tidak memiliki tag penutup.
+
+Tag <img>memiliki dua atribut wajib:
+
+1. src - Menentukan jalur ke gambar
+2.alt - Menentukan teks alternatif untuk gambar
+
+Sintaksis
+
+<img src="url" alt="alternatetext">
+
+Atribut src
+
+Atribut yang diperlukan srcmenentukan jalur (URL) ke gambar.
+
+Catatan: Saat halaman web dimuat, pada saat itulah browserlah yang mengambil gambar dari server web dan menyisipkannya ke halaman. Oleh karena itu, pastikan gambar tersebut benar-benar tetap berada di tempat yang sama dengan halaman web, jika tidak pengunjung Anda akan mendapatkan ikon tautan rusak. Ikon tautan rusak dan altteks ditampilkan jika browser tidak dapat menemukan gambar.
+
+Atribut alt
+
+Atribut wajib altmenyediakan teks alternatif untuk gambar, jika pengguna karena alasan tertentu tidak dapat melihatnya (karena koneksi lambat, kesalahan pada atribut src, atau jika pengguna menggunakan pembaca layar).

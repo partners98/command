@@ -1,0 +1,19 @@
+───┤ *STRING JAVASCRIPT* ├───
+
+String JavaScript adalah nol atau lebih karakter yang ditulis di dalam tanda kutip.
+
+let text = "John Doe"; 
+
+Anda dapat menggunakan tanda kutip tunggal atau ganda:
+
+let carName1 = "Volvo XC60"; 
+// Double quotes
+
+let carName2 = 'Volvo XC60';
+// Single quotes 
+
+Anda dapat menggunakan tanda kutip di dalam sebuah string, selama tanda kutip tersebut tidak cocok dengan tanda kutip yang mengelilingi string tersebut:
+
+let answer1 = "It's alright";
+let answer2 = "He is called 'Johnny'";
+let answer3 = 'He is called "Johnny"'; 

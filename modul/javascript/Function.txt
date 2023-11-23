@@ -1,0 +1,25 @@
+───┤ *FUNCTION JAVASCRIPT* ├───
+
+Fungsi JavaScript adalah blok kode yang dirancang untuk melakukan tugas tertentu.
+
+Fungsi JavaScript dijalankan ketika "sesuatu" memanggilnya (memanggilnya).
+
+function myFunction(p1, p2) {
+  return p1 * p2;
+} 
+
+Sintaks Fungsi JavaScript
+
+function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+} 
+
+Pemanggilan Fungsi
+
+Kode di dalam fungsi akan dijalankan ketika "sesuatu" memanggil (memanggil) fungsi tersebut:
+
+1. Saat suatu peristiwa terjadi (saat pengguna mengklik tombol)
+2. Ketika dipanggil (dipanggil) dari kode JavaScript
+3. Secara otomatis (dipanggil sendiri)
+
+Anda akan belajar lebih banyak tentang pemanggilan fungsi nanti di tutorial ini.

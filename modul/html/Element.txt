@@ -1,0 +1,33 @@
+────┤ *Element HTML* ├────
+
+Elemen HTML ditentukan oleh tag awal, beberapa konten, dan tag akhir.
+
+Elemen HTML
+
+Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir:
+
+<h1> My First Heading </h1>
+<p> My first paragraph. </p>
+<br> Tidak ada
+
+Catatan: Beberapa elemen HTML tidak memiliki konten (seperti elemen <br>). Elemen-elemen ini disebut elemen kosong. Elemen kosong tidak memiliki tag akhir!
+
+Elemen HTML Bersarang
+
+Elemen HTML dapat disarangkan (artinya elemen dapat berisi elemen lain).
+
+Semua dokumen HTML terdiri dari elemen HTML bersarang.
+
+Contoh berikut berisi empat elemen HTML ( <html>, <body>, <h1>dan <p>):
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
+
+Contoh Dijelaskan
+
+Elemennya <html>adalah elemen root dan mendefinisikan keseluruhan dokumen HTML.

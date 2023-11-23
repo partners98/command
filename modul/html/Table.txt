@@ -1,0 +1,26 @@
+────┤ *TABLE HTML* ├────
+
+Tabel HTML memungkinkan pengembang web untuk mengatur data ke dalam baris dan kolom.
+
+Tentukan Tabel HTML
+
+Tabel dalam HTML terdiri dari sel-sel tabel di dalam baris dan kolom.
+
+Tabel HTML sederhana:
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 

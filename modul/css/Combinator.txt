@@ -1,0 +1,34 @@
+────┤ *COMBINATOR CSS* ├────
+
+Pemilih CSS dapat berisi lebih dari satu pemilih sederhana. Di antara penyeleksi sederhana, kita dapat menyertakan kombinator.
+
+Ada empat kombinator berbeda di CSS:
+
+pemilih keturunan (spasi)
+pemilih anak (>)
+pemilih saudara yang berdekatan (+)
+pemilih saudara umum (~)
+
+Pemilih Keturunan
+
+div p {
+  background-color: yellow;
+}
+
+Pemilih Anak (>)
+
+div > p {
+  background-color: yellow;
+}
+
+Pemilih Saudara yang Berdekatan (+)
+
+div + p {
+  background-color: yellow;
+}
+
+Pemilih Saudara Umum (~)
+
+div ~ p {
+  background-color: yellow;
+}

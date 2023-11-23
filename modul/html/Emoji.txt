@@ -1,0 +1,21 @@
+────┤ *EMOJI HTML* ├────
+
+Emoji adalah karakter dari rangkaian karakter UTF-8: 😄 😍 💗
+
+Apa itu Emoji?
+
+Emoji terlihat seperti gambar, atau ikon, padahal sebenarnya tidak.
+
+Itu adalah huruf (karakter) dari kumpulan karakter UTF-8 (Unicode).
+
+UTF-8 mencakup hampir semua karakter dan simbol di dunia.
+
+Atribut rangkaian karakter HTML
+
+Untuk menampilkan halaman HTML dengan benar, browser web harus mengetahui kumpulan karakter yang digunakan di halaman tersebut.
+
+Ini ditentukan dalam <meta>tag:
+
+<meta charset="UTF-8">
+
+Jika tidak ditentukan, UTF-8 adalah set karakter default dalam HTML.

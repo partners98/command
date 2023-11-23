@@ -1,0 +1,15 @@
+────┤ *LIST HTML* ├────
+
+Daftar HTML memungkinkan pengembang web mengelompokkan sekumpulan item terkait dalam daftar.
+
+Daftar HTML Tidak Berurutan
+
+Daftar tidak berurutan dimulai dengan <ul> tag. Setiap item daftar dimulai dengan <li> tag.
+
+Item daftar akan ditandai dengan poin (lingkaran hitam kecil) secara default:
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 

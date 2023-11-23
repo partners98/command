@@ -1,0 +1,68 @@
+───┤ *TYPEOF JAVASCRIPT* ├───
+
+Dalam JavaScript ada 5 tipe data berbeda yang dapat berisi nilai:
+
+string
+number
+boolean
+object
+function
+
+Ada 6 jenis objek:
+
+Object
+Date
+Array
+String
+Number
+Boolean
+
+Dan 2 tipe data yang tidak bisa berisi nilai:
+
+null
+undefined
+
+Jenis Operator
+
+Anda dapat menggunakan typeofoperator untuk menemukan tipe data variabel JavaScript.
+
+typeof "John"
+// Returns "string"
+
+typeof 3.14
+// Returns "number"
+
+typeof NaN
+// Returns "number"
+
+typeof false
+// Returns "boolean"
+
+typeof [1,2,3,4]
+// Returns "object"
+
+typeof {name:'John', age:34}
+// Returns "object"
+
+typeof new Date()
+// Returns "object"
+
+typeof function () {}
+// Returns "function"
+
+typeof myCar
+// Returns "undefined" *
+
+typeof null
+// Returns "object"
+
+Harap perhatikan:
+
+1. Tipe data NaN adalah angka
+2. Tipe data array adalah objek
+3. Tipe data suatu tanggal adalah objek
+4. Tipe data null adalah objek
+5. Tipe data dari variabel yang tidak terdefinisi tidak terdefinisi *
+6. Tipe data variabel yang belum diberi nilai juga tidak terdefinisi *
+
+Anda tidak dapat menggunakannya typeofuntuk menentukan apakah objek JavaScript adalah array (atau tanggal).

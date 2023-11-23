@@ -1,0 +1,21 @@
+────┤ *IMPORTANT CSS* ├────
+
+Aturan !important dalam CSS digunakan untuk menambah kepentingan suatu properti/nilai daripada biasanya.
+
+Faktanya, jika Anda menggunakan !importantaturan tersebut, aturan tersebut akan mengesampingkan SEMUA aturan penataan gaya sebelumnya untuk properti spesifik pada elemen tersebut!
+
+Mari kita lihat sebuah contoh:
+
+#myid {
+  background-color: blue;
+}
+.myclass {
+  background-color: gray;
+}
+p {
+  background-color: red !important;
+}
+
+Contoh Dijelaskan
+
+Dalam contoh di atas. ketiga paragraf tersebut akan mendapat warna latar belakang merah, padahal pemilih ID dan pemilih kelas memiliki spesifisitas yang lebih tinggi. Aturan tersebut !important mengesampingkan background-colorproperti dalam kedua kasus.

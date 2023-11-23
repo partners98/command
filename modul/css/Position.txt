@@ -1,0 +1,22 @@
+────┤ *POSITION CSS* ├────
+
+Properti ini position menentukan jenis metode pemosisian yang digunakan untuk suatu elemen (statis, relatif, tetap, absolut, atau melekat).
+
+Posisi Properti
+
+Properti positionmenentukan jenis metode penentuan posisi yang digunakan untuk suatu elemen.
+
+Ada lima nilai posisi yang berbeda:
+
+static
+relative
+fixed
+absolute
+sticky
+
+Elemen kemudian diposisikan menggunakan properti atas, bawah, kiri, dan kanan. Namun, properti ini tidak akan berfungsi kecuali position properti tersebut disetel terlebih dahulu. Mereka juga bekerja secara berbeda tergantung pada nilai posisi.
+
+div.static {
+  position: static;
+  border: 3px solid #73AD21;
+}

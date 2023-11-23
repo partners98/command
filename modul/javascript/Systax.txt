@@ -1,0 +1,36 @@
+───┤ *SYNTAX JAVASCRIPT* ├───
+
+Sintaks JavaScript adalah seperangkat aturan, bagaimana program JavaScript dibuat:
+
+// How to create variables:
+var x;
+let y;
+
+// How to use variables:
+x = 5;
+y = 6;
+let z = x + y; 
+
+Nilai JavaScript
+
+Sintaks JavaScript mendefinisikan dua jenis nilai:
+
+- Nilai tetap
+- Nilai variabel
+
+Nilai tetap disebut Literals .
+
+Nilai variabel disebut Variabel .
+
+Variabel JavaScript
+
+Dalam bahasa pemrograman, variabel digunakan untuk menyimpan nilai data.
+
+JavaScript menggunakan kata kunci var, letdan constuntuk mendeklarasikan variabel.
+
+Tanda sama dengan digunakan untuk memberikan nilai pada variabel.
+
+Dalam contoh ini, x didefinisikan sebagai variabel. Kemudian, x diberi (diberi) nilai 6:
+
+let x;
+x = 6; 

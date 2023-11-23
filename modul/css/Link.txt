@@ -1,0 +1,33 @@
+────┤ *LINK CSS* ├────
+
+Dengan CSS, tautan dapat ditata dengan berbagai cara.
+
+Tautan Gaya
+
+Tautan dapat ditata dengan properti CSS apa pun (misalnya color, font-family, background, dll.).
+
+a {
+  color: hotpink;
+}
+
+Selain itu, gaya tautan dapat berbeda-beda, bergantung pada statusnya .
+
+Empat status tautan adalah:
+
+1. a:link- tautan normal yang belum dikunjungi
+2. a:visited- tautan yang telah dikunjungi pengguna
+3. a:hover- tautan saat pengguna mengarahkan mouse ke atasnya
+4. a:active- tautan saat diklik
+
+a:link {
+  color: red;
+} 
+a:visited {
+  color: green;
+} 
+a:hover {
+  color: hotpink;
+} 
+a:active {
+  color: blue;
+}

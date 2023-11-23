@@ -1,0 +1,31 @@
+────┤ *PAGE TITLE HTML* ├────
+
+Setiap halaman web harus memiliki judul halaman untuk menggambarkan arti halaman tersebut.
+
+Elemen <title>menambahkan judul ke halaman Anda:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Tutorial</title>
+</head>
+<body>
+The content of the document......
+</body>
+</html> 
+
+Judul harus menggambarkan isi dan arti halaman.
+
+Judul halaman sangat penting untuk optimasi mesin pencari (SEO). Teks tersebut digunakan oleh algoritma mesin pencari untuk menentukan urutan ketika mencantumkan halaman dalam hasil pencarian.
+
+Elemen <title>:
+
+1. mendefinisikan judul di toolbar browser
+2. memberikan judul untuk halaman ketika ditambahkan ke favorit
+3. menampilkan judul halaman di hasil mesin pencari
+
+Jadi, usahakan untuk membuat judul seakurat dan bermakna mungkin!
+
+Tag Judul HTML
+
+<title> : Defines the title of the document

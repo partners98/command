@@ -1,0 +1,33 @@
+────┤ *CHARSET HTML* ├────
+
+Untuk menampilkan halaman HTML dengan benar, browser web harus mengetahui kumpulan karakter mana yang akan digunakan.
+
+Atribut rangkaian karakter HTML
+
+Kumpulan karakter ditentukan dalam <meta>tag:
+
+<meta charset="UTF-8">
+
+Spesifikasi HTML5 mendorong pengembang web untuk menggunakan rangkaian karakter UTF-8.
+
+UTF-8 mencakup hampir semua karakter dan simbol di dunia!
+
+Referensi UTF-8 Lengkap
+
+Kumpulan Karakter ASCII
+
+ASCII adalah standar pengkodean karakter pertama untuk web. Ini mendefinisikan 128 karakter berbeda yang dapat digunakan di internet:
+
+1. Huruf bahasa Inggris (AZ)
+2. Angka (0-9)
+3. Karakter khusus seperti ! $+-( )@< >.
+
+Kumpulan Karakter ANSI
+
+ANSI (Windows-1252) adalah kumpulan karakter Windows asli:
+
+1. Identik dengan ASCII untuk 127 karakter pertama
+2. Karakter khusus dari 128 hingga 159
+3. Identik dengan UTF-8 dari 160 hingga 255
+
+<meta charset="Windows-1252">

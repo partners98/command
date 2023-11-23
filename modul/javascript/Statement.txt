@@ -1,0 +1,20 @@
+───┤ *STATEMENT JAVASCRIPT* ├───
+
+let x, y, z;
+// Statement 1
+x = 5;
+// Statement 2
+y = 6;
+// Statement 3
+z = x + y;
+// Statement 4 
+
+Program JavaScript
+
+Program komputer adalah daftar "instruksi" yang harus "dieksekusi" oleh komputer.
+
+Dalam bahasa pemrograman, instruksi pemrograman ini disebut pernyataan .
+
+Program JavaScript adalah daftar pernyataan pemrograman .
+
+Dalam HTML, program JavaScript dijalankan oleh browser web.

@@ -1,0 +1,36 @@
+────┤ *INLINE-BLOCK CSS* ├────
+
+Tampilan: Nilai blok sebaris
+
+Dibandingkan dengan display: inline, perbedaan utamanya adalah display: inline-blockmemungkinkan untuk mengatur lebar dan tinggi pada elemen.
+
+Selain itu, dengan display: inline-block, margin/padding atas dan bawah dipatuhi, namun dengan display: inlinetidak.
+
+Dibandingkan dengan display: block, perbedaan utamanya adalah display: inline-block tidak menambahkan jeda baris setelah elemen, sehingga elemen dapat ditempatkan di samping elemen lainnya.
+
+Contoh berikut menunjukkan perilaku yang berbeda dari display: inline, display: inline-blockdan display: block:
+
+span.a {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+} 

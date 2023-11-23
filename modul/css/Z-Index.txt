@@ -1,0 +1,17 @@
+────┤ *Z-INDEX CSS* ├────
+
+Properti z-indexmenentukan urutan tumpukan suatu elemen.
+Properti indeks-z
+
+Ketika elemen diposisikan, elemen tersebut dapat tumpang tindih dengan elemen lainnya.
+
+Properti z-indexmenentukan urutan tumpukan suatu elemen (elemen mana yang harus ditempatkan di depan, atau di belakang, elemen lainnya).
+
+Sebuah elemen dapat memiliki urutan tumpukan positif atau negatif:
+
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}

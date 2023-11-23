@@ -1,0 +1,35 @@
+────┤ *TAUTAN HTML* ├────
+
+Tautan ditemukan di hampir semua halaman web. Tautan memungkinkan pengguna mengeklik dari halaman ke halaman.
+
+Tautan HTML - Hyperlink
+
+Tautan HTML adalah hyperlink.
+
+Anda dapat mengeklik tautan dan melompat ke dokumen lain.
+
+Saat Anda menggerakkan mouse ke atas link, panah mouse akan berubah menjadi tangan kecil.
+
+Catatan: Tautan tidak harus berupa teks. Tautan dapat berupa gambar atau elemen HTML lainnya!
+
+Tautan HTML - Sintaks
+
+Tag HTML <a> mendefinisikan hyperlink. Ini memiliki sintaks berikut:
+
+<a href="url">link text</a>
+
+Atribut yang paling penting dari suatu <a> elemen adalah hrefatribut, yang menunjukkan tujuan tautan.
+
+Teks tautan adalah bagian yang akan terlihat oleh pembaca.
+
+Mengklik teks tautan, akan mengirim pembaca ke alamat URL yang ditentukan.
+
+Contoh ini menunjukkan cara membuat tautan ke W3Schools.com:
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
+Secara default, tautan akan muncul sebagai berikut di semua browser:
+
+1. Tautan yang belum dikunjungi digarisbawahi dan berwarna biru
+2. Tautan yang dikunjungi digarisbawahi dan berwarna ungu
+3. Tautan aktif digarisbawahi dan berwarna merah

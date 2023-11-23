@@ -1,0 +1,34 @@
+────┤ *LIST CSS* ├────
+
+Daftar HTML dan Properti Daftar CSS
+
+Dalam HTML, ada dua tipe utama daftar:
+
+1. daftar tidak berurutan (<ul>) - item daftar ditandai dengan poin
+2. daftar terurut (<ol>) - item daftar ditandai dengan angka atau huruf
+
+Properti daftar CSS memungkinkan Anda untuk:
+
+1. Tetapkan penanda item daftar yang berbeda untuk daftar yang dipesan
+2. Tetapkan penanda item daftar yang berbeda untuk daftar tidak berurutan
+3. Tetapkan gambar sebagai penanda item daftar
+4. Tambahkan warna latar belakang ke daftar dan item daftar
+
+Penanda Item Daftar Berbeda
+
+Properti list-style-type menentukan tipe penanda item daftar.
+
+Contoh berikut memperlihatkan beberapa penanda item daftar yang tersedia:
+
+ul.a {
+  list-style-type: circle;
+}
+ul.b {
+  list-style-type: square;
+}
+ol.c {
+  list-style-type: upper-roman;
+}
+ol.d {
+  list-style-type: lower-alpha;
+} 

@@ -1,0 +1,26 @@
+────┤ *TABLE CSS* ├────
+
+Tampilan tabel HTML dapat ditingkatkan secara signifikan dengan CSS:
+
+<table id="customers">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+</table>
+
+Batas Tabel
+
+Untuk menentukan batas tabel di CSS, gunakan borderproperti.
+
+Contoh di bawah ini menentukan batas padat untuk elemen <table>, <th>, dan <td>:
+
+table, th, td {
+  border: 1px solid;
+}

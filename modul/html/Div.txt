@@ -1,0 +1,23 @@
+────┤ *DIV HTML* ├────
+
+Elemen tersebut <div> digunakan sebagai wadah untuk elemen HTML lainnya.
+
+Elemen <div>
+
+Elemen ini <div>secara default adalah elemen blok, artinya elemen ini mengambil semua lebar yang tersedia, dan dilengkapi dengan jeda baris sebelum dan sesudahnya.
+
+Elemen <div> mengambil semua lebar yang tersedia:
+
+Lorem Ipsum <div>I am a div</div> dolor sit amet. 
+
+<div> sebagai wadah
+
+Elemen ini <div> sering digunakan untuk mengelompokkan bagian-bagian halaman web menjadi satu.
+
+Elemen <div> dengan elemen HTML:
+
+<div>
+  <h2>London</h2>
+  <p>London is the capital city of England.</p>
+  <p>London has over 13 million inhabitants.</p>
+</div> 

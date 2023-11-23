@@ -1,0 +1,36 @@
+────┤ *MARGIN CSS* ├────
+
+Margin digunakan untuk menciptakan ruang di sekitar elemen, di luar batas yang ditentukan.
+
+Margin CSS
+
+Properti CSS margin digunakan untuk menciptakan ruang di sekitar elemen, di luar batas yang ditentukan.
+
+Dengan CSS, Anda memiliki kendali penuh atas margin. Terdapat properti untuk mengatur margin untuk setiap sisi elemen (atas, kanan, bawah, dan kiri).
+
+Margin - Sisi Individu
+
+CSS memiliki properti untuk menentukan margin untuk setiap sisi elemen:
+
+margin-top
+margin-right
+margin-bottom
+margin-left
+
+Semua properti margin dapat memiliki nilai berikut:
+
+1. otomatis - browser menghitung margin
+2. length - menentukan margin dalam px, pt, cm, dll.
+3. % - menentukan margin dalam % lebar elemen yang memuatnya
+4. mewarisi - menentukan bahwa margin harus diwarisi dari elemen induk
+
+Tip: Nilai negatif diperbolehkan.
+
+Tetapkan margin berbeda untuk keempat sisi elemen <p>:
+
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+} 

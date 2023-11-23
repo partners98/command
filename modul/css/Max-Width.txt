@@ -1,0 +1,20 @@
+────┤ *MAX-WIDTH CSS* ├────
+
+Seperti yang telah disebutkan pada bab sebelumnya; elemen tingkat blok selalu menempati lebar penuh yang tersedia (membentang ke kiri dan kanan sejauh mungkin).
+
+Menyetel width elemen tingkat blok akan mencegahnya meregang hingga ke tepi wadahnya. Kemudian, Anda dapat mengatur margin ke otomatis, untuk memusatkan elemen secara horizontal di dalam wadahnya. Elemen akan mengambil lebar yang ditentukan, dan ruang yang tersisa akan dibagi rata antara dua margin
+
+Catatan: Masalah di atas <div> terjadi ketika jendela browser lebih kecil dari lebar elemen. Browser kemudian menambahkan scrollbar horizontal ke halaman.
+
+Sebaliknya, menggunakan max-width dalam situasi ini akan meningkatkan penanganan browser terhadap jendela kecil. Hal ini penting ketika membuat situs dapat digunakan pada perangkat kecil
+
+div.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+div.ex2 {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}

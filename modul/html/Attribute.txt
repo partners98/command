@@ -1,0 +1,34 @@
+────┤ *Atribut HTML* ├────
+
+Atribut HTML memberikan informasi tambahan tentang elemen HTML.
+
+Atribut HTML
+
+1. Semua elemen HTML dapat memiliki atribut
+2. Atribut memberikan informasi tambahan tentang elemen
+3. Atribut selalu ditentukan di tag awal
+4. Atribut biasanya datang dalam pasangan nama/nilai seperti: name="value"
+
+Atribut href
+
+Tag <a> mendefinisikan hyperlink. Atribut hrefmenentukan URL halaman yang dituju linknya:
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+Anda akan mempelajari lebih lanjut tentang tautan di bab Tautan HTML kami .
+
+Atribut src
+
+Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Atribut srcmenentukan jalur ke gambar yang akan ditampilkan:
+
+<img src="img_girl.jpg">
+
+Ada dua cara untuk menentukan URL dalam srcatribut:
+
+1. URL Absolut - Tautan ke gambar eksternal yang dihosting di situs web lain. Contoh: src="https://www.w3schools.com/images/img_girl.jpg" .
+
+Catatan: Gambar eksternal mungkin dilindungi hak cipta. Jika Anda tidak mendapatkan izin untuk menggunakannya, Anda mungkin melanggar undang-undang hak cipta. Selain itu, Anda tidak dapat mengontrol gambar eksternal; itu bisa tiba-tiba dihapus atau diubah.
+
+2. URL Relatif - Tautan ke gambar yang dihosting di dalam situs web. Di sini, URL tidak menyertakan nama domain. Jika URL diawali tanpa garis miring, URL tersebut akan relatif terhadap halaman saat ini. Contoh: src="img_girl.jpg". Jika URL dimulai dengan garis miring, itu akan berhubungan dengan domain. Contoh: src="/images/img_girl.jpg".
+
+Tip: Hampir selalu yang terbaik adalah menggunakan URL relatif. Mereka tidak akan rusak jika Anda mengubah domain.

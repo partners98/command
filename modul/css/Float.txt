@@ -1,0 +1,9 @@
+────┤ *FLOAT CSS* ├────
+
+Properti CSS float menentukan bagaimana sebuah elemen harus melayang.
+
+Properti CSS clear menentukan elemen apa yang bisa melayang di samping elemen yang dibersihkan dan di sisi mana.
+
+img {
+  float: right;
+}

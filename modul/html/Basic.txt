@@ -1,0 +1,33 @@
+────┤ *DASAR HTML* ├────
+
+Dalam bab ini kami akan menunjukkan beberapa contoh dasar HTML.
+
+Jangan khawatir jika kami menggunakan tag yang belum Anda pelajari.
+
+Dokumen HTML
+
+Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: <!DOCTYPE html>.
+
+Dokumen HTML itu sendiri dimulai dengan <html> dan diakhiri dengan </html>.
+
+Bagian yang terlihat dari dokumen HTML adalah antara <body> dan </body>.
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
+
+Deklarasi <!DOCTYPE>
+
+Deklarasi tersebut <!DOCTYPE> mewakili tipe dokumen, dan membantu browser menampilkan halaman web dengan benar.
+
+Itu hanya boleh muncul sekali, di bagian atas halaman (sebelum tag HTML apa pun).
+
+Deklarasi ini <!DOCTYPE> tidak membedakan huruf besar-kecil.
+
+Deklarasi <!DOCTYPE> untuk HTML5 adalah:
+
+<!DOCTYPE html>

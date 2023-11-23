@@ -1,0 +1,15 @@
+────┤ *RESPONSIVE HTML* ├────
+
+Desain web responsif adalah tentang membuat halaman web yang terlihat bagus di semua perangkat!
+
+Desain web yang responsif akan secara otomatis menyesuaikan dengan ukuran layar dan area pandang yang berbeda.
+
+Apa itu Desain Web Responsif?
+
+Desain Web Responsif adalah tentang penggunaan HTML dan CSS untuk secara otomatis mengubah ukuran, menyembunyikan, mengecilkan, atau memperbesar situs web, agar terlihat bagus di semua perangkat (desktop, tablet, dan ponsel):
+
+Mengatur Area Pandang
+
+Untuk membuat situs web responsif, tambahkan tag berikut <meta> ke semua halaman web Anda:
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 

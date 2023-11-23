@@ -1,0 +1,33 @@
+────┤ *LAYOUT HTML* ├────
+
+Situs web sering kali menampilkan konten dalam beberapa kolom (seperti majalah atau koran).
+
+Elemen Tata Letak HTML
+
+HTML memiliki beberapa elemen semantik yang mendefinisikan berbagai bagian halaman web:
+
+
+<header> - Mendefinisikan header untuk dokumen atau bagian
+
+<nav> - Mendefinisikan sekumpulan tautan navigasi
+
+<section> - Mendefinisikan bagian dalam dokumen
+
+<article> - Mendefinisikan konten yang independen dan mandiri
+
+<aside> - Mendefinisikan konten selain konten (seperti sidebar)
+
+<footer> - Mendefinisikan footer untuk dokumen atau bagian
+
+<details> - Mendefinisikan detail tambahan yang dapat dibuka dan ditutup pengguna sesuai permintaan
+
+<summary> - Mendefinisikan judul untuk <details>elemen
+
+Teknik Tata Letak HTML
+
+Ada empat teknik berbeda untuk membuat tata letak multikolom. Setiap teknik memiliki kelebihan dan kekurangannya:
+
+- kerangka CSS
+- Properti mengambang CSS
+- kotak fleksibel CSS
+- kisi CSS

@@ -1,0 +1,36 @@
+────┤ *BORDER CSS* ├────
+
+Properti perbatasan CSS memungkinkan Anda menentukan gaya, lebar, dan warna batas elemen.
+
+Gaya Perbatasan CSS
+
+Properti border-style menentukan jenis batas yang akan ditampilkan.
+
+Nilai-nilai berikut diperbolehkan:
+
+1. dotted- Mendefinisikan batas titik-titik
+2. dashed- Mendefinisikan batas putus-putus
+3. solid- Mendefinisikan batas yang solid
+4. double- Mendefinisikan perbatasan ganda
+5. groove- Mendefinisikan batas beralur 3D. Efeknya bergantung pada nilai warna batas
+6. ridge- Mendefinisikan batas bergerigi 3D. Efeknya bergantung pada nilai warna batas
+7. inset- Mendefinisikan batas sisipan 3D. Efeknya bergantung pada nilai warna batas
+8. outset- Mendefinisikan batas awal 3D. Efeknya bergantung pada nilai warna batas
+9. none- Tidak mendefinisikan batas
+10. hidden- Mendefinisikan perbatasan tersembunyi
+
+Properti border-style dapat memiliki satu hingga empat nilai (untuk batas atas, batas kanan, batas bawah, dan batas kiri).
+
+Demonstrasi gaya perbatasan yang berbeda:
+
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;} 

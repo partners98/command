@@ -1,0 +1,19 @@
+───┤ *COMMENT JAVASCRIPT* ├───
+
+Komentar JavaScript dapat digunakan untuk menjelaskan kode JavaScript, dan membuatnya lebih mudah dibaca.
+
+Komentar JavaScript juga dapat digunakan untuk mencegah eksekusi, saat menguji kode alternatif.
+
+Komentar Satu Baris
+
+Komentar satu baris dimulai dengan //.
+
+Teks apa pun di antara //dan akhir baris akan diabaikan oleh JavaScript (tidak akan dieksekusi).
+
+Contoh ini menggunakan komentar satu baris sebelum setiap baris kode:
+
+// Change heading:
+document.getElementById("myH").innerHTML = "My First Page";
+
+// Change paragraph:
+document.getElementById("myP").innerHTML = "My first paragraph."; 

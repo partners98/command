@@ -1,0 +1,13 @@
+───┤ *ASSIGMENT JAVASCRIPT* ├───
+
+Operator Penugasan JavaScript
+
+Operator penugasan memberikan nilai ke variabel JavaScript.
+
+= x=y x=y
++= x+=y x=x+y
+-= x-=y x=x-y
+*= x*=y x=x*y
+/= x/=y x=x/y
+%= x%=y x=x%y
+**= x**=y x=x**y

@@ -1,0 +1,26 @@
+───┤ *ARITHMETIC JAVASCRIPT* ├───
+
+Operator Aritmatika JavaScript
+
+Operator aritmatika melakukan aritmatika pada bilangan (literal atau variabel).
+
++ Addition
+- Subtraction
+* Multiplication
+** Exponentiation (ES2016)
+/ Division
+% Modulus (Remainder)
+++ Increment
+-- Decrement
+
+Operasi Aritmatika
+
+Operasi aritmatika pada umumnya beroperasi pada dua bilangan.
+
+Kedua angka tersebut dapat berupa literal:
+
+let x = 100 + 50; 
+
+atau variabel:
+
+let x = a + b; 

@@ -1,0 +1,28 @@
+────┤ *HEIGHT/WIDTH CSS* ├────
+
+CSS height dan widthp roperti digunakan untuk mengatur tinggi dan lebar suatu elemen.
+
+Properti CSS max-width digunakan untuk mengatur lebar maksimum suatu elemen.
+
+CSS Mengatur tinggi dan lebar
+
+Properti height and width digunakan untuk mengatur tinggi dan lebar suatu elemen.
+
+Properti tinggi dan lebar tidak menyertakan padding, batas, atau margin. Ini mengatur tinggi/lebar area di dalam padding, batas, dan margin elemen.
+
+Nilai tinggi dan lebar CSS
+
+Properti heightand widthmungkin memiliki nilai berikut:
+
+1. auto- Ini adalah bawaannya. Browser menghitung tinggi dan lebar
+2. length- Mendefinisikan tinggi/lebar dalam px, cm, dll.
+3. %- Mendefinisikan tinggi/lebar dalam persen blok yang memuatnya
+4. initial- Mengatur tinggi/lebar ke nilai defaultnya
+5. inherit- Tinggi/lebar akan diwarisi dari nilai induknya
+
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+

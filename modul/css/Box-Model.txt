@@ -1,0 +1,16 @@
+────┤ *BOX MODEL CSS* ├────
+
+Semua elemen HTML dapat dianggap sebagai kotak.
+
+Model Kotak CSS
+
+Dalam CSS, istilah "model kotak" digunakan ketika berbicara tentang desain dan tata letak.
+
+Model kotak CSS pada dasarnya adalah sebuah kotak yang membungkus setiap elemen HTML. Terdiri dari: konten, padding, batas dan margin.
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}

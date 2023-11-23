@@ -1,0 +1,46 @@
+───┤ *DATA TYPE JAVASCRIPT* ├───
+
+
+JavaScript memiliki 8 Tipe Data
+
+1. String
+2. Angka
+3. Bigint
+4. Boolean
+5. Tidak terdefinisi
+6. Null
+7. Simbol
+8. Objek
+
+Tipe Data Objek
+
+Tipe data objek dapat berisi:
+
+1. Sebuah Objek
+2. Sebuah Array
+3. Sebuah Tanggal
+
+// Numbers:
+let length = 16;
+let weight = 7.5;
+
+// Strings:
+let color = "Yellow";
+let lastName = "Johnson";
+
+// Booleans
+let x = true;
+let y = false;
+
+// Object:
+const person = {firstName:"John", lastName:"Doe"};
+
+// Array object:
+const cars = ["Saab", "Volvo", "BMW"];
+
+// Date object:
+const date = new Date("2022-03-25"); 
+
+Catatan
+
+Variabel JavaScript dapat menampung semua jenis data.

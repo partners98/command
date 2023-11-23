@@ -1,0 +1,24 @@
+────┤ *OVERFLOW CSS* ├────
+
+Properti CSS overflowmengontrol apa yang terjadi pada konten yang terlalu besar untuk dimasukkan ke dalam suatu area.
+
+CSS Overflow
+
+Properti overflow menentukan apakah akan memotong konten atau menambahkan scrollbar ketika konten suatu elemen terlalu besar untuk muat di area yang ditentukan.
+
+Properti ini overflow memiliki nilai sebagai berikut:
+
+1. visible- Bawaan. Luapannya tidak terpotong. Konten ditampilkan di luar kotak elemen
+
+2. hidden- Luapannya terpotong, dan konten lainnya tidak akan terlihat
+
+3. scroll- Overflow terpotong, dan scrollbar ditambahkan untuk melihat konten lainnya
+
+4. auto- Mirip dengan scroll, tetapi menambahkan scrollbar hanya jika diperlukan
+
+div {
+  width: 200px;
+  height: 65px;
+  background-color: coral;
+  overflow: visible;
+}

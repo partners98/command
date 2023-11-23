@@ -1,0 +1,26 @@
+───┤ *LET JAVASCRIPT* ├───
+
+
+Kata letkunci diperkenalkan di ES6 (2015)
+
+Variabel yang didefinisikan dengan lettidak dapat dideklarasikan ulang
+
+Variabel yang didefinisikan letharus dideklarasikan sebelum digunakan
+
+Variabel yang didefinisikan letmemiliki Cakupan Blok
+
+Tidak Dapat Dinyatakan Ulang
+
+Variabel yang didefinisikan dengan let tidak dapat dideklarasikan ulang .
+
+Anda tidak dapat secara tidak sengaja mendeklarasikan ulang variabel yang dideklarasikan dengan let.
+
+Dengan letAnda tidak dapat melakukan ini:
+
+let x = "John Doe";
+let x = 0;
+
+Dengan varAnda dapat:
+
+var x = "John Doe";
+var x = 0; 

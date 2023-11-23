@@ -1,0 +1,39 @@
+────┤ *HEAD HTML* ├────
+
+Elemen HTML <head>adalah wadah untuk elemen berikut: <title>, <style>, <meta>, <link>, <script>, dan <base>.
+
+Elemen HTML <head>
+
+Elemen tersebut <head> merupakan wadah untuk metadata (data tentang data) dan ditempatkan di antara <html> tag dan <body> tag.
+
+Metadata HTML adalah data tentang dokumen HTML. Metadata tidak ditampilkan.
+
+Metadata biasanya menentukan judul dokumen, kumpulan karakter, gaya, skrip, dan informasi meta lainnya.
+
+Elemen HTML <judul>
+
+Elemen <title> mendefinisikan judul dokumen. Judul harus berupa teks saja, dan ditampilkan di bilah judul browser atau di tab halaman.
+
+Elemen ini <title> diperlukan dalam dokumen HTML!
+
+Konten judul halaman sangat penting untuk optimasi mesin pencari (SEO)! Judul halaman digunakan oleh algoritma mesin pencari untuk menentukan urutan ketika mencantumkan halaman dalam hasil pencarian.
+
+Elemen <title>:
+
+1. mendefinisikan judul di toolbar browser
+2. memberikan judul untuk halaman ketika ditambahkan ke favorit
+3. menampilkan judul halaman di hasil mesin pencari
+
+Jadi, usahakan untuk membuat judul seakurat dan bermakna mungkin!
+
+Dokumen HTML sederhana:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Meaningful Page Title</title>
+</head>
+<body>
+The content of the document......
+</body>
+</html> 

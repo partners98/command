@@ -1,0 +1,29 @@
+────┤ *PARAGRAF  HTML* ├────
+
+Sebuah paragraf selalu dimulai pada baris baru, dan biasanya berupa blok teks.
+
+Paragraf HTML
+
+Elemen HTML <p> mendefinisikan paragraf.
+
+Sebuah paragraf selalu dimulai pada baris baru, dan browser secara otomatis menambahkan spasi (margin) sebelum dan sesudah paragraf.
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+Tampilan HTML
+
+Anda tidak dapat memastikan bagaimana HTML akan ditampilkan.
+
+Layar besar atau kecil, dan jendela yang diubah ukurannya akan memberikan hasil yang berbeda.
+
+Dengan HTML, Anda tidak dapat mengubah tampilan dengan menambahkan spasi atau baris tambahan pada kode HTML Anda.
+
+Browser akan secara otomatis menghapus spasi dan baris tambahan saat halaman ditampilkan:
+
+<p>
+This paragraph contains a lot of lines in the source code, but the browser ignores it.</p>
+
+<p>
+The number of lines in a paragraph depends on the size of the browser window. If you resize the browser window, the number of lines in this paragraph will change.
+</p>

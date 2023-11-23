@@ -1,0 +1,24 @@
+───┤ *BOOLEAN JAVASCRIPT* ├───
+
+Boolean JavaScript mewakili salah satu dari dua nilai: true atau false.
+
+Nilai Boolean
+
+Seringkali, dalam pemrograman, Anda memerlukan tipe data yang hanya dapat memiliki satu dari dua nilai, misalnya
+
+ YA TIDAK
+ HIDUP/MATI
+ BENAR SALAH
+
+Untuk ini, JavaScript memiliki tipe data Boolean . Itu hanya dapat mengambil nilai true atau false .
+
+Fungsi Boolean()
+
+Anda dapat menggunakan Boolean()fungsi ini untuk mengetahui apakah suatu ekspresi (atau variabel) benar:
+
+Boolean(10 > 9) 
+
+Atau lebih mudah lagi:
+
+(10 > 9)
+10 > 9

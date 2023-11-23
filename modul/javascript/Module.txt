@@ -1,0 +1,16 @@
+───┤ *MODULE JAVASCRIPT* ├───
+
+Modul
+
+Modul JavaScript memungkinkan Anda memecah kode menjadi file terpisah.
+
+Hal ini mempermudah pemeliharaan basis kode.
+
+Modul diimpor dari file eksternal dengan import pernyataan tersebut.
+
+Modul juga mengandalkan type="module"tag <script>.
+
+Contoh
+<script type="module">
+import message from "./message.js";
+</script> 

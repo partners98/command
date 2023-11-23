@@ -1,0 +1,38 @@
+───┤ *IF ELSE JAVASCRIPT* ├───
+
+Pernyataan bersyarat digunakan untuk melakukan tindakan berbeda berdasarkan kondisi berbeda.
+
+Pernyataan bersyarat
+
+Seringkali ketika Anda menulis kode, Anda ingin melakukan tindakan berbeda untuk keputusan berbeda.
+
+Anda dapat menggunakan pernyataan kondisional dalam kode Anda untuk melakukan ini.
+
+Dalam JavaScript kami memiliki pernyataan kondisional berikut:
+
+Gunakan ifuntuk menentukan blok kode yang akan dieksekusi, jika kondisi yang ditentukan benar
+
+Gunakan elseuntuk menentukan blok kode yang akan dieksekusi, jika kondisi yang sama salah
+
+Gunakan else ifuntuk menentukan kondisi baru yang akan diuji, jika kondisi pertama salah
+
+Gunakan switchuntuk menentukan banyak blok kode alternatif yang akan dieksekusi
+
+Pernyataan tersebut switchdijelaskan pada bab berikutnya.
+
+Pernyataan if
+
+Gunakan ifpernyataan tersebut untuk menentukan blok kode JavaScript yang akan dieksekusi jika kondisinya benar.
+
+Sintaksis
+if (condition) {
+  //  block of code to be executed if the condition is true
+}
+
+Perhatikan bahwa ifdalam huruf kecil. Huruf besar (If atau IF) akan menghasilkan kesalahan JavaScript.
+
+Ucapkan salam “Selamat siang” jika jam kurang dari pukul 18.00:
+
+if (hour < 18) {
+  greeting = "Good day";
+}

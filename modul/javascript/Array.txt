@@ -1,0 +1,37 @@
+───┤ *ARRAY JAVASCRIPT* ├───
+
+Array adalah variabel khusus yang dapat menampung lebih dari satu nilai:
+
+const cars = ["Saab", "Volvo", "BMW"]; 
+
+Mengapa Menggunakan Array?
+
+Jika Anda memiliki daftar item (misalnya daftar nama mobil), menyimpan mobil dalam variabel tunggal akan terlihat seperti ini:
+
+let car1 = "Saab";
+let car2 = "Volvo";
+let car3 = "BMW";
+
+Namun, bagaimana jika Anda ingin menelusuri mobil-mobil tersebut dan menemukan mobil tertentu? Dan bagaimana jika Anda tidak punya 3 mobil, tapi 300?
+
+Solusinya adalah sebuah array!
+
+Sebuah array dapat menampung banyak nilai dalam satu nama, dan Anda dapat mengakses nilai tersebut dengan mengacu pada nomor indeks.
+
+Membuat Array
+
+Menggunakan literal array adalah cara termudah untuk membuat Array JavaScript.
+
+Sintaksis:
+
+const array_name = [item1, item2, ...];
+
+Merupakan praktik umum untuk mendeklarasikan array dengan kata kunci const.
+
+Spasi dan jeda baris tidak penting. Deklarasi dapat mencakup beberapa baris:
+
+const cars = [
+  "Saab",
+  "Volvo",
+  "BMW"
+];

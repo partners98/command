@@ -1,0 +1,33 @@
+───┤ *DATE JAVASCRIPT* ├───
+
+const d = new Date(); 
+atau
+const d = new Date("2022-03-25"); 
+
+Objek tanggal bersifat statis. "Jam" tidak "berjalan".
+
+Jam komputer terus berdetak, objek tanggal tidak.
+
+Keluaran Tanggal JavaScript
+
+Secara default, JavaScript akan menggunakan zona waktu browser dan menampilkan tanggal sebagai string teks lengkap:
+
+Kam 23 Nov 2023 13:56:20 GMT+0700 (Waktu Indonesia Barat)
+
+Anda akan belajar lebih banyak tentang cara menampilkan tanggal, nanti di tutorial ini.
+
+Membuat Objek Tanggal
+
+Objek tanggal dibuat dengan new Date()konstruktor.
+
+Ada 9 cara untuk membuat objek tanggal baru:
+
+new Date()
+new Date(date string)
+new Date(year,month)
+new Date(year,month,day)
+new Date(year,month,day,hours)
+new Date(year,month,day,hours,minutes)
+new Date(year,month,day,hours,minutes,seconds)
+new Date(year,month,day,hours,minutes,seconds,ms)
+new Date(milliseconds) 

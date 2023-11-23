@@ -1,0 +1,20 @@
+────┤ *SPECIFICITY CSS* ├────
+
+Jika ada dua atau lebih aturan CSS yang mengarah ke elemen yang sama, pemilih dengan nilai spesifisitas tertinggi akan "menang", dan deklarasi gayanya akan diterapkan ke elemen HTML tersebut.
+
+Bayangkan kekhususan sebagai skor/peringkat yang menentukan deklarasi gaya mana yang pada akhirnya diterapkan pada suatu elemen.
+
+Lihatlah contoh berikut:
+
+Dalam contoh ini, kita menggunakan elemen "p" sebagai pemilih, dan menentukan warna merah untuk elemen ini. Teksnya akan berwarna merah:
+
+<html>
+<head>
+  <style>
+    p {color: red;}
+  </style>
+</head>
+<body>
+<p>Hello World!</p>
+</body>
+</html> 

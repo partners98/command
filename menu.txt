@@ -1,0 +1,10 @@
+┌────┤ *MENU BOT* ├─────
+│
+├┬● *AI*
+│└▻ *.ai* _(Tanya AI)_
+│
+├┬● *MODUL DASAR PROGRAMMER*
+│├▻ *.html* _(HTML)_
+│├▻ *.css* _(CSS)_
+│└▻ *.js* _(Javascript)_
+└─────────────────

@@ -1,0 +1,40 @@
+────┤ *OUTLINE CSS* ├────
+
+Garis luar adalah garis yang digambar di luar batas elemen.
+
+Garis Besar CSS
+
+Garis besar adalah garis yang digambar di sekeliling elemen, DI LUAR batas, untuk membuat elemen "menonjol".
+
+CSS memiliki properti garis besar berikut:
+
+outline-style
+outline-color
+outline-width
+outline-offset
+outline
+
+Gaya Garis Besar CSS
+
+Properti outline-stylemenentukan gaya kerangka, dan dapat memiliki salah satu nilai berikut:
+
+1. dotted- Mendefinisikan garis putus-putus
+2. dashed- Mendefinisikan garis putus-putus
+3. solid- Mendefinisikan garis besar yang solid
+4. double- Mendefinisikan garis besar ganda
+5. groove- Mendefinisikan garis beralur 3D
+6. ridge- Mendefinisikan garis bergerigi 3D
+7. inset- Mendefinisikan garis sisipan 3D
+8. outset- Mendefinisikan garis besar permulaan 3D
+9. none- Tidak mendefinisikan garis besar
+10. hidden- Mendefinisikan garis besar yang tersembunyi
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
+

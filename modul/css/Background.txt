@@ -1,0 +1,13 @@
+────┤ *BACKGROUND CSS* ├────
+
+Properti latar belakang CSS digunakan untuk menambahkan efek latar belakang pada elemen.
+
+Warna latar belakang CSS
+
+Properti background-color menentukan warna latar belakang suatu elemen.
+
+Warna latar belakang halaman diatur seperti ini:
+
+body {
+  background-color: lightblue;
+} 

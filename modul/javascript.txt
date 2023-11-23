@@ -1,0 +1,33 @@
+┌──┤ *MODUL JAVASCRIPT├──
+│
+├▻ *.js-intr* _(Introduction)_
+├▻ *.js-out* _(Output)_
+├▻ *.js-stat* _(Statement)_
+├▻ *.js-syn* _(Systax)_
+├▻ *.js-comm* _(Comment)_
+├▻ *.js-var* _(Variable)_
+├▻ *.js-let* _(Let)_
+├▻ *.js-cons* _(Const)_
+├▻ *.js-ope* _(Operator)_
+├▻ *.js-arit* _(Arithmetic)_
+├▻ *.js-ass* _(Assignment)_
+├▻ *.js-dt* _(Data Type)_
+├▻ *.js-func* _(Function)_
+├▻ *.js-obj* _(Object)_
+├▻ *.js-eve* _(Event)_
+├▻ *.js-str* _(String)_
+├▻ *.js-num* _(Number)_
+├▻ *.js-arr* _(Array)_
+├▻ *.js-date* _(Date)_
+├▻ *.js-boo* _(Boolean)_
+├▻ *.js-ife* _(If Else)_
+├▻ *.js-loop* _(Loop For)_
+├▻ *.js-break* _(Break)_
+├▻ *.js-typ* _(TypeOf)_
+├▻ *.js-scop* _(Scope)_
+├▻ *.js-hois* _(Hoisting)_
+├▻ *.js-class* _(Class)_
+├▻ *.js-mod* _(Module)_
+├▻ *.js-json* _(Json)_
+├▻ *.js-mis* _(Mistake)_
+└─────────────────

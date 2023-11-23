@@ -1,0 +1,30 @@
+────┤ *FONT CSS* ├────
+
+Memilih font yang tepat untuk situs web Anda itu penting!
+
+Pemilihan Font Itu Penting
+
+Memilih font yang tepat memiliki dampak besar pada pengalaman pembaca terhadap situs web.
+
+Font yang tepat dapat menciptakan identitas yang kuat untuk brand Anda.
+
+Menggunakan font yang mudah dibaca itu penting. Font menambah nilai pada teks Anda. Penting juga untuk memilih warna dan ukuran teks yang tepat untuk font.
+Keluarga Font Generik
+
+Di CSS ada lima keluarga font umum:
+
+1. Font serif memiliki guratan kecil di tepi setiap huruf. Mereka menciptakan kesan formalitas dan keanggunan.
+
+2. Font Sans-serif memiliki garis yang bersih (tidak ada guratan kecil yang menempel). Mereka menciptakan tampilan modern dan minimalis.
+
+3. Font monospace - di sini semua huruf memiliki lebar tetap yang sama. Mereka menciptakan tampilan mekanis. 
+
+4. Font kursif meniru tulisan tangan manusia.
+
+5. Font fantasi adalah font dekoratif/menyenangkan.
+
+Semua nama font yang berbeda termasuk dalam salah satu keluarga font umum. 
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+} 

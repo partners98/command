@@ -1,0 +1,18 @@
+───┤ *BREAK JAVASCRIPT* ├───
+
+Pernyataan break"melompat keluar" dari satu lingkaran.
+
+Pernyataan continue"melompati" satu iterasi dalam perulangan.
+
+Pernyataan Istirahat
+
+Anda telah melihat breakpernyataan yang digunakan pada bab awal tutorial ini. Itu digunakan untuk "melompat keluar" dari sebuah switch()pernyataan.
+
+Pernyataan ini breakjuga dapat digunakan untuk keluar dari lingkaran:
+
+for (let i = 0; i < 10; i++) {
+  if (i === 3) { break; }
+  text += "The number is " + i + "<br>";
+}
+
+Pada contoh di atas, breakpernyataan mengakhiri perulangan ("memutus" perulangan) ketika penghitung perulangan (i) adalah 3.

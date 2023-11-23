@@ -1,0 +1,27 @@
+────┤ *TEXT CSS* ├────
+
+CSS memiliki banyak properti untuk memformat teks.
+
+Warna teks
+
+body {
+  color: blue;
+}
+h1 {
+  color: green;
+}
+
+Warna Teks dan Warna Latar Belakang
+
+body {
+  background-color: lightgrey;
+  color: blue;
+}
+h1 {
+  background-color: black;
+  color: white;
+}
+div {
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,29 @@
+───┤ *OBJECT JAVASCRIPT* ├───
+
+alam kehidupan nyata, mobil adalah sebuah benda .
+
+Sebuah mobil memiliki sifat seperti berat dan warna, serta metode seperti memulai dan berhenti:
+
+Properti
+car.name = Fiat
+
+Metode
+mobil.mulai()
+
+Semua mobil mempunyai properti yang sama , tetapi nilai properti berbeda dari satu mobil ke mobil lainnya.
+
+Semua mobil mempunyai cara yang sama , namun cara tersebut dilakukan pada waktu yang berbeda .
+
+Objek JavaScript
+
+Anda telah mempelajari bahwa variabel JavaScript adalah wadah untuk nilai data.
+
+Kode ini memberikan nilai sederhana (Fiat) ke variabel bernama mobil:
+
+let car = "Fiat"; 
+
+Objek juga merupakan variabel. Tapi objek bisa mengandung banyak nilai.
+
+Kode ini memberikan banyak nilai (Fiat, 500, putih) ke variabel bernama mobil:
+
+const car = {type:"Fiat", model:"500", color:"white"}; 

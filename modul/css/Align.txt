@@ -1,0 +1,20 @@
+────┤ *ALIGN CSS* ├────
+
+Elemen Rata Tengah
+
+Untuk memusatkan elemen blok secara horizontal (seperti <div>), gunakanmargin: auto;
+
+Menyetel lebar elemen akan mencegahnya meregang hingga ke tepi wadahnya.
+
+Elemen tersebut kemudian akan mengambil lebar yang ditentukan, dan ruang yang tersisa akan dibagi rata antara dua margin:
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+Teks Rata Tengah
+
+Untuk memusatkan teks di dalam elemen, gunakan text-align: center;

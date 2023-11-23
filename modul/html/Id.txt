@@ -1,0 +1,36 @@
+────┤ *ID HTML* ├────
+
+Atribut HTML id digunakan untuk menentukan id unik untuk elemen HTML.
+
+Anda tidak boleh memiliki lebih dari satu elemen dengan id yang sama dalam dokumen HTML.
+
+Menggunakan Atribut id
+
+Atribut id menentukan id unik untuk elemen HTML. Nilai atribut idharus unik dalam dokumen HTML.
+
+Atribut id digunakan untuk menunjuk ke deklarasi gaya tertentu dalam stylesheet. Itu juga digunakan oleh JavaScript untuk mengakses dan memanipulasi elemen dengan id tertentu.
+
+Sintaks untuk id adalah: tulis karakter hash (#), diikuti dengan nama id. Lalu, definisikan properti CSS di dalam kurung kurawal {}.
+
+Dalam contoh berikut kita memiliki <h1> elemen yang menunjuk ke nama id "myHeader". Elemen ini <h1> akan ditata sesuai dengan #myHeaderdefinisi gaya di bagian head:
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<h1 id="myHeader">My Header</h1>
+</body>
+</html>
+
+Catatan: Nama id peka huruf besar-kecil!
+
+Catatan: Nama id harus mengandung minimal satu karakter, tidak boleh diawali dengan angka, dan tidak boleh mengandung spasi (spasi, tab, dll).

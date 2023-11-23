@@ -1,0 +1,35 @@
+────┤ *PADDING CSS* ├────
+
+Padding digunakan untuk menciptakan ruang di sekitar konten elemen, di dalam batas yang ditentukan.
+
+Padding CSS
+
+Properti CSS paddingdigunakan untuk menghasilkan ruang di sekitar konten elemen, di dalam batas yang ditentukan.
+
+Dengan CSS, Anda memiliki kendali penuh atas padding. Terdapat properti untuk mengatur padding untuk setiap sisi elemen (atas, kanan, bawah, dan kiri).
+
+Padding - Sisi Individu
+
+CSS memiliki properti untuk menentukan padding untuk setiap sisi elemen:
+
+padding-top
+padding-right
+padding-bottom
+padding-left
+
+Semua properti padding dapat memiliki nilai berikut:
+
+1. length - menentukan padding dalam px, pt, cm, dll.
+2. % - menentukan padding dalam % lebar elemen yang memuatnya
+3. mewarisi - menentukan bahwa padding harus diwarisi dari elemen induk
+
+Catatan: Nilai negatif tidak diperbolehkan.
+
+Tetapkan padding yang berbeda untuk keempat sisi elemen <div>:  
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+} 

@@ -1,0 +1,42 @@
+───┤ *OPERATOR JAVASCRIPT* ├───
+
+Operator Penjumlahan + menambahkan angka:
+
+Operator Penugasan = memberikan nilai pada suatu variabel.
+
+Penugasan JavaScript
+
+Operator Penugasan ( =) memberikan nilai ke variabel:
+
+let x = 10;
+
+Penambahan JavaScript
+
+Operator Penjumlahan ( ) +menambahkan angka:
+
+Menambahkan
+let x = 5;
+let y = 2;
+let z = x + y; 
+
+Perkalian JavaScript
+
+Operator Perkalian ( ) *mengalikan bilangan:
+
+Mengalikan
+let x = 5;
+let y = 2;
+let z = x * y; 
+
+Jenis Operator JavaScript
+
+Ada berbagai jenis operator JavaScript:
+
+Operator Aritmatika
+Operator Penugasan
+Operator Perbandingan
+Operator String
+Operator Logis
+Operator Bitwise
+Operator Terner
+Tipe Operator

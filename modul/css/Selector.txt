@@ -1,0 +1,29 @@
+────┤ *SELECTOR CSS* ├────
+
+Pemilih CSS memilih elemen HTML yang ingin Anda gaya.
+
+Pemilih CSS
+
+Pemilih CSS digunakan untuk "menemukan" (atau memilih) elemen HTML yang ingin Anda gaya.
+
+Kita dapat membagi pemilih CSS menjadi lima kategori:
+
+1. Selector sederhana (pilih elemen berdasarkan nama, id, kelas)
+2. Penyeleksi kombinator (memilih elemen berdasarkan hubungan tertentu di antara elemen tersebut)
+3. Selector kelas semu (memilih elemen berdasarkan keadaan tertentu)
+4. Pemilih elemen semu (memilih dan memberi gaya pada bagian elemen)
+5. Pemilih atribut (memilih elemen berdasarkan atribut atau nilai atribut)
+
+Halaman ini akan menjelaskan penyeleksi CSS paling dasar.
+
+Pemilih elemen CSS
+
+Pemilih elemen memilih elemen HTML berdasarkan nama elemen.
+Contoh
+
+Di sini, semua elemen <p> pada halaman akan diratakan tengah, dengan warna teks merah: 
+
+p {
+  text-align: center;
+  color: red;
+} 

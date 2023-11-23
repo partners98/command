@@ -1,0 +1,13 @@
+────┤ *IFRAME HTML* ├────
+
+Iframe HTML digunakan untuk menampilkan halaman web di dalam halaman web.
+
+Sintaks Iframe HTML
+
+Tag HTML <iframe> menentukan bingkai sebaris.
+
+Bingkai sebaris digunakan untuk menyematkan dokumen lain ke dalam dokumen HTML saat ini.
+
+Sintaksis
+
+<iframe src="url" title="description"></iframe>

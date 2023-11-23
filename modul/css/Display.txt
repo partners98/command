@@ -1,0 +1,31 @@
+────┤ *DISPLAY CSS* ├────
+
+Properti ini display adalah properti CSS terpenting untuk mengontrol tata letak.
+
+Tampilan Properti
+
+Properti displaymenentukan apakah/bagaimana suatu elemen ditampilkan.
+
+Setiap elemen HTML memiliki nilai tampilan default bergantung pada jenis elemennya. Nilai tampilan default untuk sebagian besar elemen adalah block atau inline.
+
+Block-level Elements
+
+<div>
+<h1> - <h6>
+<p>
+<form>
+<header>
+<footer>
+<section>
+
+Inline Elements
+
+<span>
+<a>
+<img>
+
+Display hidden
+
+li {
+  display: none;
+}

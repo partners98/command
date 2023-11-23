@@ -1,0 +1,24 @@
+───┤ *VARIABLE JAVASCRIPT* ├───
+
+
+Variabel adalah Wadah untuk Menyimpan Data
+
+Variabel JavaScript dapat dideklarasikan dengan 4 cara:
+
+Secara otomatis
+Menggunakanvar
+Menggunakanlet
+Menggunakanconst
+
+Dalam contoh pertama ini, x, y, dan zmerupakan variabel yang tidak dideklarasikan.
+
+Mereka secara otomatis dideklarasikan saat pertama kali digunakan:
+
+x = 5;
+y = 6;
+z = x + y; 
+
+
+Catatan
+
+Merupakan praktik pemrograman yang baik untuk selalu mendeklarasikan variabel sebelum digunakan.
